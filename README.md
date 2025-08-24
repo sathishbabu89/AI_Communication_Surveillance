@@ -24,17 +24,13 @@ This project is an **AI-powered email compliance monitoring system** for interna
 
 ## Folder Structure
 
-```
-
-email\_compliance\_app/
-│── .env.example           # Environment variable template
-│── app.py                 # Streamlit UI
-│── classify.py            # LLM classification logic
-│── synthetic\_emails.csv   # Sample email dataset
-│── requirements.txt       # Dependencies
-│── README.md              # Project documentation
-
-````
+email_compliance_app/
+│── .env.example # Environment variable template
+│── app.py # Streamlit UI
+│── classify.py # LLM classification logic
+│── synthetic_emails.csv # Sample email dataset
+│── requirements.txt # Dependencies
+│── README.md # Project documentation
 
 ---
 
