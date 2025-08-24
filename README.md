@@ -1,6 +1,4 @@
 
-## **README (`README.md`)**
-
 ```markdown
 # AI Communication Surveillance
 
