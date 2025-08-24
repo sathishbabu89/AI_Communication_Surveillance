@@ -24,7 +24,7 @@ This project is an **AI-powered email compliance monitoring system** for interna
 
 ## Folder Structure
 
-````
+```
 
 email\_compliance\_app/
 │── .env.example           # Environment variable template
@@ -32,7 +32,6 @@ email\_compliance\_app/
 │── classify.py            # LLM classification logic
 │── synthetic\_emails.csv   # Sample email dataset
 │── requirements.txt       # Dependencies
-│── Git\_Workflow\.md        # Git workflow documentation
 │── README.md              # Project documentation
 
 ````
@@ -107,11 +106,4 @@ The CSV must contain at least these columns:
 
 This project is for demonstration and POC purposes.
 
-```
-
----
-
-If you want, I can **also prepare the `.gitignore` and `.env.example` file** to make your repo fully ready-to-upload safely.  
-
-Do you want me to do that next?
 ```
